@@ -46,20 +46,20 @@ Launch MO2 from the exe found in your install folder.
 
 In the top right of MO2, use the drop down menu to select `FO4Config`, and hit the `Run` button to the right of that. When opened, direct it to your `Fallout4.exe` location. DO NOT replace the Fallout4Launcher if prompted. After this is done, follow these instructions for each of the tabs:
 
-* Tweaks: 
+* Tweaks:   
 Activate `Always Active`, `Invalidate Archives` and `Fix Sensitivity Ratio`.
-* Performance:
-** Next to `iNumHWThreads`, put the number of cores that your CPU has. Next to `Dir Distance`, put 3000. Disable `Radial Blur`. For performance over beauty, put the field next to `Resolution` to 2048.
-* Camera:
-** Feel free to edit your field of view as much as you like here.
-* Textures/Decals:
-** Click the `Recommended` button, and set `Max Actor Decals` to 40.
-* UI:
-** Simply change the colors to your liking.
-* Gameplay:
-** Set `Difficulty` to 5, enable `Dialogue Subtitles`, and feel free to disable `Show Tutorials` if you already know everything.
-* Final Step:
-** Now, hit 'Save' in the bottom left.
+* Performance:  
+Next to `iNumHWThreads`, put the number of cores that your CPU has. Next to `Dir Distance`, put 3000. Disable `Radial Blur`. For performance over beauty, put the field next to `Resolution` to 2048.
+* Camera:  
+Feel free to edit your field of view as much as you like here.
+* Textures/Decals:  
+Click the `Recommended` button, and set `Max Actor Decals` to 40.
+* UI:  
+Simply change the colors to your liking.
+* Gameplay:  
+Set `Difficulty` to 5, enable `Dialogue Subtitles`, and feel free to disable `Show Tutorials` if you already know everything.
+* Final Step:  
+Now, hit 'Save' in the bottom left.
 
 ### Step 9:
 
