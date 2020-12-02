@@ -89,5 +89,6 @@ Now, open your PipBoy, go to `Misc`, and `Settings`, and open the `Beantown Inte
 * **True Storms Configuration**:  
 Now, open the Holotape `True Storms Configuration` and enable `True Storms Effects`. If you want the game to be extra hard, keep `Constant Rads (Rad Rain)` Enabled, and also Enable `Ghoul Horde Chance`.
 
+---
 
 You're done! Have fun, and feel free to join my [Discord](https://discord.gg/g4r3pcP) or the Wabbajack Discord server to see what I am working on next or if you have suggestions or anything! I will also be doing my best to support users on this Nexus page, so you can contact me there too! I hope you enjoy your experience!
