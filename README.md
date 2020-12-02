@@ -84,9 +84,9 @@ After that, Set `Immersive HUD Enabled` to `ON`. Then, set `Settings Holotape` a
 Under `Crosshair`, set `Weapon` and `Hit Marker` to `Always`.   
 In `Health`, set `Health below (%)` to `0.5`. Under `AP`, set `AP below (%)` to `0.5`.   
 Under `Other Settings`, set `Active Effects` to `Always`.
-* **Beantown Interiors**:
+* **Beantown Interiors**:  
 Now, open your PipBoy, go to `Misc`, and `Settings`, and open the `Beantown Interiors` Holotape. Go to `Customize Options -> Other Options` and `Enable Hardcore Clutter`. Then, go to `Mod Compatibility` and `Enable Insidejobs Compatibility`.
-* **True Storms Configuration**:
+* **True Storms Configuration**:  
 Now, open the Holotape `True Storms Configuration` and enable `True Storms Effects`. If you want the game to be extra hard, keep `Constant Rads (Rad Rain)` Enabled, and also Enable `Ghoul Horde Chance`.
 
 
