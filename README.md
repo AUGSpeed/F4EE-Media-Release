@@ -49,17 +49,17 @@ In the top right of MO2, use the drop down menu to select `FO4Config`, and hit t
 * Tweaks: 
 Activate `Always Active`, `Invalidate Archives` and `Fix Sensitivity Ratio`.
 * Performance:
-Next to `iNumHWThreads`, put the number of cores that your CPU has. Next to `Dir Distance`, put 3000. Disable `Radial Blur`. For performance over beauty, put the field next to `Resolution` to 2048.
+** Next to `iNumHWThreads`, put the number of cores that your CPU has. Next to `Dir Distance`, put 3000. Disable `Radial Blur`. For performance over beauty, put the field next to `Resolution` to 2048.
 * Camera:
-Feel free to edit your field of view as much as you like here.
+** Feel free to edit your field of view as much as you like here.
 * Textures/Decals:
-Click the `Recommended` button, and set `Max Actor Decals` to 40.
+** Click the `Recommended` button, and set `Max Actor Decals` to 40.
 * UI:
-Simply change the colors to your liking.
+** Simply change the colors to your liking.
 * Gameplay:
-Set `Difficulty` to 5, enable `Dialogue Subtitles`, and feel free to disable `Show Tutorials` if you already know everything.
+** Set `Difficulty` to 5, enable `Dialogue Subtitles`, and feel free to disable `Show Tutorials` if you already know everything.
 * Final Step:
-Now, hit 'Save' in the bottom left.
+** Now, hit 'Save' in the bottom left.
 
 ### Step 9:
 
