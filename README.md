@@ -65,4 +65,22 @@ Now, hit 'Save' in the bottom left.
 
 After creating your character, you should configure the MCM menus found at the top of your pause menu. Follow [these pictures](https://imgur.com/a/sTVhaFd) and you will be good! After getting the Pipboy, make sure to load both the True Storms Config and Beantown Interiors holotapes, then follow the final images in the link above to finish your config!
 
+* **Better Locational Damage**:   
+Mod Settings: Set `Helmet Protection` and `Bandage Heal` to `OFF`.
+* **HoloTime**:   
+For `Toggle HoloTime Display`, set it to the `?/` key. Then, click on `Widget Position`, and move the widget to the very top middle of your screen, with `Y` being close to 1, and `X` being close to half of your monitor's resolution width. Then, ensure that scale is `0.5`.
+* **VAFS Redux**:  
+Focus: For `Hotkey: Toggle Focus`, put `Q`. If you cannot, rebind VATS in your regular settings menu.
+Attack: For `Hotkey Use Critical`, put `L Alt`.
+* **Workshop Framework**:  
+Options: Set `Auto Assign Beds`, `Auto Assign Defenses`, and `Auto Assign Food` to `OFF`.
+* **Workshop Plus**: 
+Options: Set `Invulnerability in Workshop Mode`, `Invisibility in Workshop Mode`, `Clear the weather in Workshop Mode`, and `Unlimited Carry Weight in Workshop Mode` to `OFF`.
+* **Beat The Vault**:  
+After setting these options, go to the door of the bathroom and click the only applicable button, `This is only a dream. I need to wake up`. And then after that, `The bombs were falling, and I had just entered a pod in a vault`. This start is the ONLY OFFICIAL, SUPPORTED START. Others may be buggy, and crash your game. But, you will still be able to roleplay as someone who came from the vault in this start, but not the Father of Shaun. You will simply be someone who witnessed the murder of a person and saw their son stolen. Now, play through the vault until you get outside.
+* **Immerive HUD**:  
+Now, before you configure this menu, MAKE SURE that your HoloTime widget as well as your compass are visible. If they are, then great, you can start configuring! If not, ensure that you use that hotkey you set earlier to enable HoloTime.   
+After that, Set `Immersive HUD Enabled` to `ON`. Then, set `Settings Holotape` and `AID Toggle Items` to `OFF`. Set your `Hotkey to Toggle HUD` to `X`. Under `Crosshair`, set `Weapon` and `Hit Marker` to `Always`. In `Health`, set `Health below (%)` to `0.5`. Under `AP`, set `AP below (%)` to `0.5`. Under `Other Settings`, set `Active Effects` to `Always`.
+
+
 You're done! Have fun, and feel free to join my [Discord](https://discord.gg/g4r3pcP) or the Wabbajack Discord server to see what I am working on next or if you have suggestions or anything! I will also be doing my best to support users on this Nexus page, so you can contact me there too! I hope you enjoy your experience!
