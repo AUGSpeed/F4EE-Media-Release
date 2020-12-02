@@ -80,7 +80,14 @@ Options: Set `Invulnerability in Workshop Mode`, `Invisibility in Workshop Mode`
 After setting these options, go to the door of the bathroom and click the only applicable button, `This is only a dream. I need to wake up`. And then after that, `The bombs were falling, and I had just entered a pod in a vault`. This start is the ONLY OFFICIAL, SUPPORTED START. Others may be buggy, and crash your game. But, you will still be able to roleplay as someone who came from the vault in this start, but not the Father of Shaun. You will simply be someone who witnessed the murder of a person and saw their son stolen. Now, play through the vault until you get outside.
 * **Immerive HUD**:  
 Now, before you configure this menu, MAKE SURE that your HoloTime widget as well as your compass are visible. If they are, then great, you can start configuring! If not, ensure that you use that hotkey you set earlier to enable HoloTime.   
-After that, Set `Immersive HUD Enabled` to `ON`. Then, set `Settings Holotape` and `AID Toggle Items` to `OFF`. Set your `Hotkey to Toggle HUD` to `X`. Under `Crosshair`, set `Weapon` and `Hit Marker` to `Always`. In `Health`, set `Health below (%)` to `0.5`. Under `AP`, set `AP below (%)` to `0.5`. Under `Other Settings`, set `Active Effects` to `Always`.
+After that, Set `Immersive HUD Enabled` to `ON`. Then, set `Settings Holotape` and `AID Toggle Items` to `OFF`. Set your `Hotkey to Toggle HUD` to `X`.   
+Under `Crosshair`, set `Weapon` and `Hit Marker` to `Always`.   
+In `Health`, set `Health below (%)` to `0.5`. Under `AP`, set `AP below (%)` to `0.5`.   
+Under `Other Settings`, set `Active Effects` to `Always`.
+* **Beantown Interiors**:
+Now, open your PipBoy, go to `Misc`, and `Settings`, and open the `Beantown Interiors` Holotape. Go to `Customize Options -> Other Options` and `Enable Hardcore Clutter`. Then, go to `Mod Compatibility` and `Enable Insidejobs Compatibility`.
+* **True Storms Configuration**:
+Now, open the Holotape `True Storms Configuration` and enable `True Storms Effects`. If you want the game to be extra hard, keep `Constant Rads (Rad Rain)` Enabled, and also Enable `Ghoul Horde Chance`.
 
 
 You're done! Have fun, and feel free to join my [Discord](https://discord.gg/g4r3pcP) or the Wabbajack Discord server to see what I am working on next or if you have suggestions or anything! I will also be doing my best to support users on this Nexus page, so you can contact me there too! I hope you enjoy your experience!
