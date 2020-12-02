@@ -38,11 +38,11 @@ After it finishes, go to your install folder, and open up the `Game Folder Files
 
 Download the latest ENB binaries from [the ENB website](http://enbdev.com/download_mod_fallout4.htm). Open the archive you downloaded, and go into the `WrapperVersion` folder. Extract ONLY the two files `d3d11.dll` and `d3dcompiler_46e.dll` into your Fallout 4 Directory.
 
-### Step 6:
+### Step 3:
 
 Launch MO2 from the exe found in your install folder.
 
-### Step 7:
+### Step 4:
 
 In the top right of MO2, use the drop down menu to select `FO4Config`, and hit the `Run` button to the right of that. When opened, direct it to your `Fallout4.exe` location. DO NOT replace the Fallout4Launcher if prompted. After this is done, follow these instructions for each of the tabs:
 
@@ -61,7 +61,7 @@ Set `Difficulty` to 5, enable `Dialogue Subtitles`, and feel free to disable `Sh
 * **Final Step**:  
 Now, hit 'Save' in the bottom left.
 
-### Step 9:
+### Step 5:
 
 After creating your character, you should configure the MCM menus found at the top of your pause menu. Follow [these pictures](https://imgur.com/a/sTVhaFd) and you will be good! After getting the Pipboy, make sure to load both the True Storms Config and Beantown Interiors holotapes, then follow the final images in the link above to finish your config!
 
