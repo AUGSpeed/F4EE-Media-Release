@@ -63,7 +63,7 @@ Now, hit 'Save' in the bottom left.
 
 ### Step 5:
 
-After creating your character, you should configure the MCM menus found at the top of your pause menu. Follow [these pictures](https://imgur.com/a/sTVhaFd) and you will be good! After getting the Pipboy, make sure to load both the True Storms Config and Beantown Interiors holotapes, then follow the final images in the link above to finish your config!
+After creating your character, you should configure the MCM menus found at the top of your pause menu. Follow these steps and you will be good!
 
 * **Better Locational Damage**:   
 Mod Settings: Set `Helmet Protection` and `Bandage Heal` to `OFF`.
