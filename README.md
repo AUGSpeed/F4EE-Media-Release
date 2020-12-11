@@ -64,6 +64,7 @@ Now, hit 'Save' in the bottom left.
 For a final (Optional) Tweak to make your Flashlight plain white, click on the small file folder button to the left of the 'Active' Counter above the left pane. Select 'Open INIs Folder', and open your Fallout4Custom.ini file. Add:
 
 `[Pipboy]`
+
 `bPipboyEffectColorOnLight=0`
 
 ### Step 5:
