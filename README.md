@@ -61,6 +61,11 @@ Set `Difficulty` to 5, enable `Dialogue Subtitles`, and feel free to disable `Sh
 * **Final Step**:  
 Now, hit 'Save' in the bottom left.
 
+For a final (Optional) Tweak to make your Flashlight plain white, click on the small file folder button to the left of the 'Active' Counter above the left pane. Select 'Open INIs Folder', and open your Fallout4Custom.ini file. Add:
+
+`[Pipboy]
+bPipboyEffectColorOnLight=0`
+
 ### Step 5:
 
 After creating your character, you should configure the MCM menus found at the top of your pause menu. Follow these steps and you will be good!
